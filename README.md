@@ -16,7 +16,7 @@
 
         body { 
 
-            font-family: Playwrite Deutschland Grundschrift, sans-serif; 
+            font-family: Sofadi One, sans-serif; 
 
             background-color: #e3c2c9; 
 
